@@ -1,8 +1,8 @@
 Staff and Student system for recording hours of community service/volunteering 
-    (Staff) Log hours for student
-    (Student) Request confirmation of hours (by staff)
-    View Student Leaderboard
-    (Student) View accolades (10/25/50 hours milestones)
+1. (Staff) Log hours for student
+2. (Student) Request confirmation of hours (by staff)
+3. View Student Leaderboard
+4. (Student) View accolades (10/25/50 hours milestones)
 
 
 LIST OF COMMANDS:
